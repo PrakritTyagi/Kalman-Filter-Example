@@ -5,6 +5,7 @@ This program is based on a simple vehicle tracking problem in  x direction where
 First i will describe the problem .
 
 Consider a truck moving in 1-Dimensional space. The dynamic model is: System dynamics
+<img src="images/equation-1.png">
 
 
 where  x  and  v  are the position and velocity along the x axis.  atrue(t)  is the true acceleration at time  t  and  ω(t)  is the process noise. Accelerometer measurement model:
