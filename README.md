@@ -33,4 +33,4 @@ The Task are:
 
 ### Resources
 
-Visit https://www.kalmanfilter.net/default.aspx  to understand Kalman filter step by step. 
+Visit https://www.kalmanfilter.net/default.aspx  to understand Kalman filter step by step. To understand derivation look at **IntroductionToEstimationForNavigation.pdf** inside docs folder.
