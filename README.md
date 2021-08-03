@@ -31,11 +31,12 @@ The Task are:
 5. Assuming that you only know the sequence of  **z(k)**  and  **ameas(k)**  for 300 seconds at 1 Hz rate, use the Kalman Filter prediction and update functions to estimate **X=[x v]T** corresponding to each **z(k)**.
 
 
-Note:
+### Note:
 
 To solve this estimation problem, you need to augment the system model. 
 You can see that the measurement is non-linear. The H matrix that can be used in this case is:
- <img src="images/equation-5.PNG" height="100">
+
+<img src="images/equation-5.PNG" height="50">
 
 ### Resources
 
